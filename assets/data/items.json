@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/200?random=3",
+    "title": "Black Lives Matter",
+    "author": "Spotify",
+    "description": "Songs of empowerment and pride."
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/200",
+    "title": "Sigrid – Sucker Punch",
+    "author": "Brent Vatne",
+    "description": "🎵🎵"
+  },
+  {
+    "id": 3,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "title": "Your Top Songs 2019",
+    "author": "Spotify",
+    "description": "The songs you loved most this year, all wrapped up."
+  },
+  {
+    "id": 4,
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "title": "Chill Vibes",
+    "author": "Spotify",
+    "description": "Relax and unwind with chill tracks."
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/200?random=1",
+    "title": "Workout Hits",
+    "author": "Spotify",
+    "description": "Get pumped with these energetic tracks."
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/200?random=2",
+    "title": "Peaceful Piano",
+    "author": "Spotify",
+    "description": "Soothing piano for focus and relaxation."
+  },
+  {
+    "id": 7,
+    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "title": "Hot Rhythms",
+    "author": "Latino Beats",
+    "description": "The hottest Latin tracks right now."
+  },
+  {
+    "id": 8,
+    "image": "https://randomuser.me/api/portraits/women/22.jpg",
+    "title": "Lo-Fi Beats",
+    "author": "LoFi Girl",
+    "description": "Beats to study, chill, and vibe to."
+  },
+  {
+    "id": 9,
+    "image": "https://randomuser.me/api/portraits/men/33.jpg",
+    "title": "Throwback Hits",
+    "author": "Spotify",
+    "description": "The best of the 2000s and 2010s."
+  },
+  {
+    "id": 10,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "title": "Mood Booster",
+    "author": "Spotify",
+    "description": "Songs to lift your mood and energy."
+  },
+  {
+    "id": 11,
+    "image": "https://placebear.com/200/200",
+    "title": "Rap Caviar",
+    "author": "Spotify",
+    "description": "The biggest and best in hip-hop."
+  },
+  {
+    "id": 12,
+    "image": "https://loremflickr.com/200/200/music",
+    "title": "Jazz Classics",
+    "author": "Blue Note",
+    "description": "Timeless jazz tracks from legends."
+  },
+  {
+    "id": 13,
+    "image": "https://loremflickr.com/200/200/people",
+    "title": "Focus Flow",
+    "author": "Spotify",
+    "description": "Stay in the zone with these tracks."
+  }
+]
